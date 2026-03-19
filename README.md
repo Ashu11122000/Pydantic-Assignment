@@ -1,7 +1,6 @@
 # Pydantic Assignment – FastAPI User API
 
-## Overview
-
+## Overview 
 This task demonstrates the use of Pydantic to build a simple User API.
 It covers:
 
